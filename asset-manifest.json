@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yoyo-website/static/css/main.1cc875e7.css",
+    "main.js": "/yoyo-website/static/js/main.26a53e57.js",
+    "static/js/453.b31d0cef.chunk.js": "/yoyo-website/static/js/453.b31d0cef.chunk.js",
+    "index.html": "/yoyo-website/index.html",
+    "main.1cc875e7.css.map": "/yoyo-website/static/css/main.1cc875e7.css.map",
+    "main.26a53e57.js.map": "/yoyo-website/static/js/main.26a53e57.js.map",
+    "453.b31d0cef.chunk.js.map": "/yoyo-website/static/js/453.b31d0cef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc875e7.css",
+    "static/js/main.26a53e57.js"
+  ]
+}
