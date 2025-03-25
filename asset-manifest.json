@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yogith-website/static/css/main.1cc875e7.css",
-    "main.js": "/yogith-website/static/js/main.00b6dc79.js",
-    "static/js/453.b31d0cef.chunk.js": "/yogith-website/static/js/453.b31d0cef.chunk.js",
-    "index.html": "/yogith-website/index.html",
-    "main.1cc875e7.css.map": "/yogith-website/static/css/main.1cc875e7.css.map",
-    "main.00b6dc79.js.map": "/yogith-website/static/js/main.00b6dc79.js.map",
-    "453.b31d0cef.chunk.js.map": "/yogith-website/static/js/453.b31d0cef.chunk.js.map"
+    "main.css": "/yogith-portfolio/static/css/main.1cc875e7.css",
+    "main.js": "/yogith-portfolio/static/js/main.7eccc835.js",
+    "static/js/453.b31d0cef.chunk.js": "/yogith-portfolio/static/js/453.b31d0cef.chunk.js",
+    "index.html": "/yogith-portfolio/index.html",
+    "main.1cc875e7.css.map": "/yogith-portfolio/static/css/main.1cc875e7.css.map",
+    "main.7eccc835.js.map": "/yogith-portfolio/static/js/main.7eccc835.js.map",
+    "453.b31d0cef.chunk.js.map": "/yogith-portfolio/static/js/453.b31d0cef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1cc875e7.css",
-    "static/js/main.00b6dc79.js"
+    "static/js/main.7eccc835.js"
   ]
 }
