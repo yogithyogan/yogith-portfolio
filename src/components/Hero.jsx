@@ -5,10 +5,10 @@ export default function Hero() {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-1/2 mb-10 md:mb-0">
               <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
-                Hi, I'm <span className="text-indigo-600">Your Name</span>
+                Hi, I'm <span className="text-indigo-600">Yogith yogan </span>
               </h1>
               <h2 className="text-2xl md:text-3xl text-gray-600 mb-6">
-                Frontend Developer
+                SoftWare Developer
               </h2>
               <p className="text-gray-600 mb-8 max-w-lg">
                 I build exceptional digital experiences with modern technologies.

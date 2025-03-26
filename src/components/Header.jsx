@@ -16,7 +16,7 @@ export default function Header() {
     <header className="fixed w-full bg-white/80 backdrop-blur-sm shadow-sm z-50">
       <div className="container mx-auto px-6 py-4">
         <div className="flex justify-between items-center">
-          <a href="#" className="text-2xl font-bold text-indigo-600">Portfolio</a>
+          <a href="#" className="text-2xl font-bold text-indigo-600">Yogith</a>
           
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">
