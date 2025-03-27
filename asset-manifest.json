@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/yogith-portfolio/static/css/main.1cc875e7.css",
-    "main.js": "/yogith-portfolio/static/js/main.051c25ba.js",
+    "main.css": "/yogith-portfolio/static/css/main.d3156dce.css",
+    "main.js": "/yogith-portfolio/static/js/main.bd676143.js",
     "static/js/453.b31d0cef.chunk.js": "/yogith-portfolio/static/js/453.b31d0cef.chunk.js",
+    "static/media/yogith.jpg": "/yogith-portfolio/static/media/yogith.d76eb8c0293376139d05.jpg",
     "index.html": "/yogith-portfolio/index.html",
-    "main.1cc875e7.css.map": "/yogith-portfolio/static/css/main.1cc875e7.css.map",
-    "main.051c25ba.js.map": "/yogith-portfolio/static/js/main.051c25ba.js.map",
+    "main.d3156dce.css.map": "/yogith-portfolio/static/css/main.d3156dce.css.map",
+    "main.bd676143.js.map": "/yogith-portfolio/static/js/main.bd676143.js.map",
     "453.b31d0cef.chunk.js.map": "/yogith-portfolio/static/js/453.b31d0cef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cc875e7.css",
-    "static/js/main.051c25ba.js"
+    "static/css/main.d3156dce.css",
+    "static/js/main.bd676143.js"
   ]
 }
