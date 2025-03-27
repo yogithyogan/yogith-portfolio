@@ -1,11 +1,14 @@
 export default function Skills() {
     const skills = [
-      { name: 'HTML', level: 90 },
-      { name: 'CSS/Tailwind', level: 85 },
-      { name: 'JavaScript', level: 80 },
-      { name: 'React', level: 85 },
-      { name: 'Node.js', level: 70 },
-      { name: 'UI/UX Design', level: 75 },
+      { name: 'Frontend', level: 94 },
+      { name: 'Backend', level: 86 },
+      { name: 'Programming', level: 85 },
+      { name: 'React', level: 92 },
+      { name: 'Node.js', level: 85 },
+      { name: 'UI/UX Design', level: 97 },
+      { name: 'API Interface', level: 84 },
+      { name: 'SpringBoot', level: 86 },
+      { name: 'Flutter', level: 83 },
     ];
   
     return (

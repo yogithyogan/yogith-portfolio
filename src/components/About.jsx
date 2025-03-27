@@ -17,34 +17,35 @@ export default function About() {
           </div>
           
           <div className="md:w-2/3 md:pl-12">
-            <h3 className="text-2xl font-semibold text-gray-700 dark:text-gray-200 mb-4">
-              Who am I?
-            </h3>
-            <p className="text-gray-600 dark:text-gray-300 mb-4">
-              I'm a passionate frontend developer with expertise in React.js and modern web technologies. 
-              I love creating beautiful, responsive, and user-friendly websites and applications.
-            </p>
-            <p className="text-gray-600 dark:text-gray-300 mb-6">
-              With a background in design and development, I bring a unique perspective to every project, 
-              ensuring both aesthetic appeal and technical excellence.
-            </p>
+          <h3 className="text-2xl font-semibold text-gray-700 dark:text-gray-200 mb-4">
+  Who am I?
+</h3>
+<p className="text-gray-600 dark:text-gray-300 mb-4">
+  I'm a versatile software developer with expertise in React, React Native, Flutter, Spring Boot, Node.js, and modern web and mobile technologies.  
+  I specialize in building scalable, high-performance applications across multiple platforms.
+</p>
+<p className="text-gray-600 dark:text-gray-300 mb-6">
+  With experience in full-stack development, databases like MySQL and PostgreSQL, and tools like Postman, Git, and Docker,  
+  I thrive in cross-functional teams, delivering innovative solutions that blend technical excellence with seamless user experiences.
+</p>
+
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
               <div>
                 <h4 className="font-medium text-gray-700 dark:text-gray-300">Name:</h4>
-                <p className="text-gray-600 dark:text-gray-400">Your Name</p>
+                <p className="text-gray-600 dark:text-gray-400">Yogith yogan j</p>
               </div>
               <div>
                 <h4 className="font-medium text-gray-700 dark:text-gray-300">Email:</h4>
-                <p className="text-gray-600 dark:text-gray-400">your.email@example.com</p>
+                <p className="text-gray-600 dark:text-gray-400">yogithyoganx@gmail.com</p>
               </div>
               <div>
                 <h4 className="font-medium text-gray-700 dark:text-gray-300">From:</h4>
-                <p className="text-gray-600 dark:text-gray-400">Your Location</p>
+                <p className="text-gray-600 dark:text-gray-400">Chennai,India</p>
               </div>
               <div>
                 <h4 className="font-medium text-gray-700 dark:text-gray-300">Experience:</h4>
-                <p className="text-gray-600 dark:text-gray-400">X+ Years</p>
+                <p className="text-gray-600 dark:text-gray-400">1+ Years</p>
               </div>
             </div>
             

@@ -16,17 +16,27 @@ export default function Contact() {
     }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    // Handle form submission
-    console.log(formData);
-    // Reset form
-    setFormData({
-      name: '',
-      email: '',
-      message: ''
+  
+    const formEndpoint = "https://formspree.io/f/mnnpbqbl"; // Replace with your Formspree endpoint
+  
+    const response = await fetch(formEndpoint, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(formData)
     });
+  
+    if (response.ok) {
+      alert("Message sent successfully!");
+      setFormData({ name: "", email: "", message: "" });
+    } else {
+      alert("Failed to send message. Please try again.");
+    }
   };
+  
 
   return (
     <section id="contact" className="py-20">
@@ -46,7 +56,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-700">Email</h4>
-                  <p className="text-gray-600">your.email@example.com</p>
+                  <p className="text-gray-600">yogithyoganx@gmail.com</p>
                 </div>
               </div>
               
@@ -56,7 +66,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-700">Phone</h4>
-                  <p className="text-gray-600">+1 (123) 456-7890</p>
+                  <p className="text-gray-600">9042100281</p>
                 </div>
               </div>
               
@@ -66,7 +76,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-700">Location</h4>
-                  <p className="text-gray-600">Your City, Country</p>
+                  <p className="text-gray-600">Chennai, India</p>
                 </div>
               </div>
             </div>
