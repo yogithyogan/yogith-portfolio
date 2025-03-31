@@ -9,7 +9,6 @@ import vta3 from '../assets/images/australia profile (1).png';
 import agas1 from '../assets/images/Agas.png';
 import agas2 from '../assets/images/agas3.png';
 import agas3 from '../assets/images/agas4.png';
-import myimage from '../assets/images/yogith.jpg';
 
 export default function Projects() {
   const [selectedProject, setSelectedProject] = useState(null);
@@ -115,14 +114,14 @@ export default function Projects() {
               <li><strong>Frontend:</strong> React.js with TypeScript for type-safe development.</li>
               <li><strong>Styling:</strong> Bootstrap for responsive and modern UI.</li>
               <li><strong>Backend:</strong> Node.js with Express.js for API development.</li>
-              <li><strong>Database:</strong> MongoDB for storing user and resource data.</li>
+              <li><strong>Database:</strong> postgres for storing user and resource data.</li>
               <li><strong>Authentication:</strong> JWT-based authentication for secure access.</li>
             </ul>
           `,
           expanded: false
         }
       ],
-      tags: ['React.js', 'TypeScript', 'Node.js', 'MongoDB']
+      tags: ['React.js', 'TypeScript', 'Node.js', 'postgres']
     },
     {
       title: 'AGAS International Australia',
@@ -270,7 +269,7 @@ export default function Projects() {
                       
                       {(expandedSection === idx || section.expanded) && (
                         <div 
-                          className="prose dark:prose-invert max-w-none mt-4"
+                          className="prose dark:prose-invert max-w-none mt-4 dark:text-gray-400"
                           dangerouslySetInnerHTML={{ __html: section.content }}
                         />
                       )}

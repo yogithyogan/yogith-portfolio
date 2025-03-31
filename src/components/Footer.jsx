@@ -2,10 +2,10 @@ import { FiGithub, FiLinkedin, FiTwitter, FiInstagram } from 'react-icons/fi';
 
 export default function Footer() {
   const socialLinks = [
-    { icon: <FiGithub />, url: '#' },
-    { icon: <FiLinkedin />, url: '#' },
-    { icon: <FiTwitter />, url: '#' },
-    { icon: <FiInstagram />, url: '#' },
+    { icon: <FiGithub />, url: 'https://github.com/yogithyogan' },
+    { icon: <FiLinkedin />, url: 'https://www.linkedin.com/in/yogith-yogan' },
+    { icon: <FiTwitter />, url: 'https://x.com/YoganYogith' },
+    { icon: <FiInstagram />, url: 'https://www.instagram.com/__yoyo._jmr__/' },
   ];
 
   return (
