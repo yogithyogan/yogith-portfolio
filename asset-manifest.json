@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yogith-portfolio/static/css/main.77862c02.css",
-    "main.js": "/yogith-portfolio/static/js/main.8274b118.js",
+    "main.css": "/yogith-portfolio/static/css/main.134edbed.css",
+    "main.js": "/yogith-portfolio/static/js/main.dc28591f.js",
     "static/js/453.b31d0cef.chunk.js": "/yogith-portfolio/static/js/453.b31d0cef.chunk.js",
     "static/media/Voyage to Australia.png": "/yogith-portfolio/static/media/Voyage to Australia.278cd52b28be7a6e3ccc.png",
     "static/media/Agas.png": "/yogith-portfolio/static/media/Agas.d016666a7d807ef2c657.png",
@@ -14,12 +14,12 @@
     "static/media/agas4.png": "/yogith-portfolio/static/media/agas4.6196bff53ddecd90379b.png",
     "static/media/tms 2.png": "/yogith-portfolio/static/media/tms 2.f71964490148375c3900.png",
     "index.html": "/yogith-portfolio/index.html",
-    "main.77862c02.css.map": "/yogith-portfolio/static/css/main.77862c02.css.map",
-    "main.8274b118.js.map": "/yogith-portfolio/static/js/main.8274b118.js.map",
+    "main.134edbed.css.map": "/yogith-portfolio/static/css/main.134edbed.css.map",
+    "main.dc28591f.js.map": "/yogith-portfolio/static/js/main.dc28591f.js.map",
     "453.b31d0cef.chunk.js.map": "/yogith-portfolio/static/js/453.b31d0cef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77862c02.css",
-    "static/js/main.8274b118.js"
+    "static/css/main.134edbed.css",
+    "static/js/main.dc28591f.js"
   ]
 }
